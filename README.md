@@ -1,3 +1,4 @@
+Kyoto University graduate student / (web) frontend engineer
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-clone-junjun-1345.vercel.app/api/top-langs/?username=junjun-1345&layout=compact&count_private=true&show_icons=true" />
