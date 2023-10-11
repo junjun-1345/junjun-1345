@@ -6,4 +6,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=junjun-1345&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=junjun1345)
+
+
