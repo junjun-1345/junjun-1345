@@ -1,7 +1,7 @@
 kindai University student / application engineer
 
 
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,django,flutter,dart,docker,figma,gcp,firebase,git,github,postman,vscode&perline=8" />
+[![My Skills]("https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,django,flutter,dart,docker,figma,gcp,firebase,git,github,postman,vscode&perline=8")](https://skillicons.dev)
  
 
 <p align="left"> 
