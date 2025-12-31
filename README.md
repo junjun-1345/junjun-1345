@@ -1,12 +1,20 @@
-![Age](https://img.shields.io/badge/Age-23-blue?style=for-the-badge&label=Version)
-![Hobby](https://img.shields.io/badge/Hobby-Sauna-orange?style=for-the-badge&logo=hotjar&logoColor=white)
-![Hobby](https://img.shields.io/badge/Hobby-Snowboarding-blue?style=for-the-badge&logo=snowflake&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=junjun-1345&label=Profile%20views&color=0e75b6&style=flat" alt="junjun-1345" />
 
-kindai University student / application engineer
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,flutter,dart,golang,docker,figma,gcp,firebase,git,github,postman,vscode&perline=8" />
-</a>
+Hi, I'm Jumpei 👋  
+I'm a software engineer at ZOZO, primarily working with Flutter.
 
+I enjoy building products from scratch (0 → 1) and improving development environments.  
+I'm especially interested in cross-platform development, IoT, developer productivity, and engineering organization management.
+
+Previously, I developed an IoT product using Raspberry Pi Pico and BLE, which won a Special Jury Award at JPHACKS.  
+I also enjoy sharing knowledge through tech talks and contributing to better team communication and workflows.
+
+**Tech Interests & Skills**
+- Flutter / Dart
+- Cross-platform Development
+- IoT & BLE
+- Developer Productivity & Tooling
+- Engineering Organization & Process Improvement
 
