@@ -1,8 +1,6 @@
 name: GitHub Profile 3D Contrib
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # 毎日 UTC 0:00 に実行
   workflow_dispatch:      # 手動実行も可能
 
 jobs:
